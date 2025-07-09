@@ -1,0 +1,122 @@
+[
+  {
+    "name": "St. Joseph",
+    "title": "Husband of Mary, Foster Father of Jesus",
+    "description": "The earthly father of Jesus and husband of the Virgin Mary, Joseph was a righteous carpenter who faithfully protected and provided for the Holy Family. Known for his obedience to God's will, humility, and dedication to his family. He is revered as the patron of workers, fathers, and the universal Church. His quiet strength and trust in divine providence make him a powerful intercessor for families and those seeking employment.",
+    "feastDay": "March 19",
+    "born": "1st century BC",
+    "died": "1st century AD",
+    "patronOf": "Workers, fathers, families, carpenters, the dying, the Universal Church",
+    "prayer": "O St. Joseph, faithful guardian of Jesus and Mary, help us in our needs and guide our families with your loving protection.",
+    "favors": "Powerful intercession in family matters, employment, housing, and a happy, peaceful death",
+    "categories": ["Family", "Jobs"]
+  },
+  {
+    "name": "St. Anthony of Padua",
+    "title": "Doctor of the Church, Finder of Lost Things",
+    "description": "Born in Lisbon, this Franciscan friar became one of the most beloved saints. Known for his powerful preaching, profound knowledge of Scripture, and miraculous ability to help find lost objects. His devotion to the poor and his gift for converting hearts made him famous throughout Europe. Many miracles were attributed to his intercession, earning him the title 'Wonder-Worker of Padua.'",
+    "feastDay": "June 13",
+    "born": "1195",
+    "died": "1231",
+    "patronOf": "Lost articles, travelers, shipwrecks, fishermen, pregnant women",
+    "prayer": "St. Anthony, perfect imitator of Jesus, obtain for us the grace to follow your example in proclaiming the Good News.",
+    "favors": "Finding lost items, help with miracles, aid in conversion",
+    "categories": ["Impossible Causes"]
+  },
+  {
+    "name": "St. Jude",
+    "title": "Apostle, Patron of Hopeless Cases",
+    "description": "One of the twelve apostles of Jesus, often called Thaddeus to distinguish him from Judas Iscariot. He preached the Gospel in Judea, Samaria, Mesopotamia, and Libya before being martyred. Because his name resembled that of the traitor Judas, few people invoked him, making him the saint of 'forgotten causes.' This ironic twist led to his patronage of hopeless and desperate situations.",
+    "feastDay": "October 28",
+    "born": "1st century",
+    "died": "65 AD",
+    "patronOf": "Hopeless causes, desperate situations, hospitals, lost causes",
+    "prayer": "St. Jude, glorious apostle, faithful servant and friend of Jesus, help us in our desperate needs and impossible causes.",
+    "favors": "Help with desperate and hopeless causes",
+    "categories": ["Impossible Causes"]
+  },
+  {
+    "name": "St. Rita of Cascia",
+    "title": "Saint of Impossible Things",
+    "description": "Born to elderly parents after years of prayer, Rita married an abusive husband who was later murdered. She forgave his killers and eventually became an Augustinian nun after her sons died. Known for bearing the stigmata and for her roses that bloomed out of season. Her life of suffering, forgiveness, and perseverance made her the patron of impossible causes and difficult marriages.",
+    "feastDay": "May 22",
+    "born": "1381",
+    "died": "1457",
+    "patronOf": "Impossible causes, difficult marriages, abused wives, widows",
+    "prayer": "St. Rita, advocate of the impossible, intercede for us in our desperate needs and help us find hope in God's mercy.",
+    "favors": "Help with impossible causes, difficult marriages, and family reconciliation",
+    "categories": ["Impossible Causes", "Family"]
+  },
+  {
+    "name": "St. Thérèse of Lisieux",
+    "title": "The Little Flower, Doctor of the Church",
+    "description": "A Carmelite nun who died at age 24, Thérèse developed the 'Little Way' of spiritual childhood - trusting in God's mercy through small acts of love and sacrifice. Her autobiography became one of the most beloved spiritual classics. Despite her short life, she was declared a Doctor of the Church for her profound spiritual insights and promised to 'spend her heaven doing good on earth.'",
+    "feastDay": "October 1",
+    "born": "1873",
+    "died": "1897",
+    "patronOf": "Missionaries, florists, tuberculosis sufferers, young people",
+    "prayer": "St. Thérèse, teach us your Little Way of trust and surrender, and shower us with your promised roses from heaven.",
+    "favors": "Help with spiritual childhood, trust, and small acts of love",
+    "categories": ["Healing"]
+  },
+  {
+    "name": "St. Michael the Archangel",
+    "title": "Prince of the Heavenly Host",
+    "description": "The leader of God's army against satan, Michael is mentioned in Scripture as the protector of God's people. His name means 'Who is like God?' - the battle cry he used against Lucifer's pride. He is invoked for protection against evil, spiritual warfare, and as guardian of the Church. Traditionally depicted in armor with a sword, defeating the devil beneath his feet.",
+    "feastDay": "September 29",
+    "born": "Before creation",
+    "died": "Eternal",
+    "patronOf": "Police officers, soldiers, paratroopers, protection against evil",
+    "prayer": "St. Michael the Archangel, defend us in battle, be our protection against the wickedness and snares of the devil.",
+    "favors": "Help with protection from evil, spiritual warfare, and courage",
+    "categories": ["Protection"]
+  },
+  {
+    "name": "St. Padre Pio",
+    "title": "Priest and Mystic",
+    "description": "An Italian Capuchin friar who bore the stigmata for 50 years, Padre Pio was known for his intense prayer life, spiritual direction, and miraculous healings. He could read souls in confession, bilocate, and emit the odor of sanctity. Despite suffering and persecution, he remained devoted to prayer and helping souls. His hospital 'House for the Relief of Suffering' continues his healing ministry.",
+    "feastDay": "September 23",
+    "born": "1887",
+    "died": "1968",
+    "patronOf": "Stress relief, spiritual healing, confessors",
+    "prayer": "St. Padre Pio, victim soul and spiritual father, intercede for our healing and guide us closer to Jesus.",
+    "favors": "Healing, spiritual guidance, and help with conversion",
+    "categories": ["Healing"]
+  },
+  {
+    "name": "St. Monica",
+    "title": "Model of Christian Mothers",
+    "description": "The patient mother of St. Augustine, Monica prayed for 17 years for her son's conversion from his wayward life. Her tears, prayers, and unwavering faith eventually led to Augustine becoming one of the greatest saints and doctors of the Church. She represents the power of a mother's persistent prayer and the hope that no soul is beyond God's reach.",
+    "feastDay": "August 27",
+    "born": "331",
+    "died": "387",
+    "patronOf": "Mothers, married women, conversion of children, alcoholics",
+    "prayer": "St. Monica, model of patience and perseverance, help us never give up praying for our loved ones' conversion.",
+    "favors": "Help with conversion of loved ones and perseverance in faith",
+    "categories": ["Family"]
+  },
+  {
+    "name": "St. Christopher",
+    "title": "Bearer of Christ",
+    "description": "According to tradition, Christopher was a giant who carried travelers across a dangerous river. One day he carried a child who revealed himself as Christ, saying Christopher had carried the weight of the world. Though historical details are uncertain, his devotion as protector of travelers remains strong. His name means 'Christ-bearer,' symbolizing every Christian's call to carry Christ to others.",
+    "feastDay": "July 25",
+    "born": "3rd century",
+    "died": "251",
+    "patronOf": "Travelers, motorists, transportation workers, sudden death",
+    "prayer": "St. Christopher, protect us on our journeys and help us carry Christ safely to our destination.",
+    "favors": "Safe travel, protection from accidents, and aid in journeys",
+    "categories": ["Protection"]
+  },
+  {
+    "name": "St. Anne",
+    "title": "Mother of the Blessed Virgin Mary",
+    "description": "The mother of the Virgin Mary and grandmother of Jesus, Anne is revered though not mentioned in canonical Scripture. Tradition holds that she and her husband Joachim were elderly and childless before miraculously conceiving Mary. She represents the faithful preparation for Christ's coming and the importance of family in God's plan. Her role in salvation history makes her a powerful intercessor for families.",
+    "feastDay": "July 26",
+    "born": "1st century BC",
+    "died": "1st century AD",
+    "patronOf": "Grandmothers, mothers, housewives, women in labor, miners",
+    "prayer": "St. Anne, grandmother of Jesus, bless our families and help us raise our children in faith and love.",
+    "favors": "Help with fertility, aid in family life, and intercession for grandparents",
+    "categories": ["Family"]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "St. Josemaria Escriva",
+    "title": "Prayer for a Happy Death",
+    "description": "A prayer attributed to St. Josemaria Escriva for preparing for a good and holy death in God's grace.",
+    "feastDay": "June 26",
+    "born": "1902",
+    "died": "1975",
+    "patronOf": "Opus Dei, ordinary life sanctification",
+    "prayer": "Jesus, Mary, Joseph, may I breathe forth my soul in peace with you.",
+    "favors": "Help with preparation for death and final perseverance",
+    "categories": ["Family"]
+  },
+  {
+    "name": "St. Josemaria Escriva", 
+    "title": "Prayer for Vocations",
+    "description": "A prayer by St. Josemaria Escriva for religious and priestly vocations and for finding one's calling in life.",
+    "feastDay": "June 26",
+    "born": "1902", 
+    "died": "1975",
+    "patronOf": "Opus Dei, lay apostolate, vocations",
+    "prayer": "Lord, send laborers to your harvest. Grant that many generous souls may respond to your call.",
+    "favors": "Help with discerning vocation and spiritual direction",
+    "categories": ["Studies"]
+  }
+]
